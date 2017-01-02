@@ -1,0 +1,12 @@
+.section .reveal .state-background {
+  background-image: url(crystal_ball01.png);
+  background-position: 60% 60%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 60% 60%;
+}
+
+p {
+  font-size: small;
+}
+
